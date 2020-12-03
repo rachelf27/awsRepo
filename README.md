@@ -23,10 +23,11 @@ Node is an image with ...
 Let's get started by installing Docker.
 Get the latest stable Docker version for your platform here => https://docs.docker.com/engine/install/
 
-Open a terminal and verify the latest Docker was installed correctly. 
+Open a terminal and verify the latest Docker was installed correctly.  
+
 `docker version`
 
 ## Basic Docker Commands
 
-Docker Compose
+### Docker Compose
 
